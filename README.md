@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Youssef Sayed 👋
 
-<!--
-**Youssef-Alsa3ed/Youssef-Alsa3ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering student and aspiring software developer interested in **Computer graphics, web development, and software engineering**.
 
-Here are some ideas to get you started:
+I enjoy building practical projects, learning new technologies, and strengthening my computer science fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+* **Languages:** C++, C#, JavaScript
+* **Web:** React, Node.js, Express, MongoDB
+* **Tools:** Git, Linux, Unity, Blender
+* **Other:** OpenGL / GLSL
+
+---
+
+## 🌱 Currently
+
+* 🎓 Engineering student
+* 💻 Building projects to strengthen my software development skills
+* 📚 Studying algorithms, data structures, and computer science fundamentals
+* 🔎 Looking for opportunities to gain professional experience and contribute to real-world projects
+
+---
+
+## 📫 Contact
+
+**GitHub:** [@Youssef-Alsa3ed](https://github.com/Youssef-Alsa3ed)
+**Portfolio:** [youssef-alsa3ed.github.io](https://youssef-alsa3ed.github.io/)
